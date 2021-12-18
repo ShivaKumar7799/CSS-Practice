@@ -1,0 +1,12 @@
+Introduction to Box Model:
+
+Borders will be visible only when we specify the Border
+
+Padding:
+       The space between the content area and border is called padding.
+
+Margin:
+       The space around the border is called margin.
+        To control the content area we have height and width.
+        To control the padding we have padding
+

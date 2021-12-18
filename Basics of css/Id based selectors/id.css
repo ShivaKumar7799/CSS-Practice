@@ -1,0 +1,9 @@
+#head{
+        color: brown;
+        border: 5px solid green;
+}
+
+#para{
+        color: chartreuse;
+        border: 10px outset rgb(121, 202, 84);
+}

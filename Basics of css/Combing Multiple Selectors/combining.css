@@ -1,0 +1,5 @@
+h1,p, .class, #id {
+        color: blueviolet;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border: 5px solid green;
+}
